@@ -1,0 +1,9 @@
+Error with transaction check vs depsolve:
+qt5-qttools-common = 5.13.1-1.oc00 is needed by (installed) qt5-qttools-5.13.1-1.oc00.i686
+qt5-qttools-common = 5.13.1-1.oc00 is needed by (installed) qt5-qttools-libs-help-5.13.1-1.oc00.i686
+qt5-qttools-common = 5.13.1-1.oc00 is needed by (installed) qt5-assistant-5.13.1-1.oc00.i686
+qt5-qttools-common = 5.13.1-1.oc00 is needed by (installed) qt5-qdbusviewer-5.13.1.-1.oc00.i686
+qt5-qttools-common = 5.13.1-1.oc00 is needed by (installed) qt5-qttools-libs-designer-5.13.1-1.oc00.i686
+qt5-qttools-common = 5.13.1-1.oc00 is needed by (installed) qt5-qttools-libs-designercompoonents-5.13.1-1.0c00.i686
+qt5-qttools-common = 5.13.1-1.oc00 is needed by (installed) qt5-linguist-5.13.1-1.oc00.i686
+Please report this error at https://github.com/bitwiseworks/rpm-issues
